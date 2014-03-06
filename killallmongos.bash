@@ -4,7 +4,7 @@ killall mongos
 
 # 2.2
 killall mongod-2.2
-killall mongod-2.2
+killall mongos-2.2
 
 # 2.4.9
 killall mongod-2.4
